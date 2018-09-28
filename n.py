@@ -1,4 +1,3 @@
-from adder from m
+import m
 
-y = adder(1,2)
-print(y)
+print(4)
